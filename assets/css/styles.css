@@ -93,6 +93,9 @@ ul {
     color: whitesmoke;
     background-color: rgb(16, 162, 195);
 }
+#content img {
+    width: 60%;
+}
 
 #articles h3 {
     padding: 3vh 0;
