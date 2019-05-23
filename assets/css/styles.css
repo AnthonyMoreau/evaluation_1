@@ -2,11 +2,16 @@ body {
     background-color: rgb(232, 232, 232);
 }
 .container {
+    padding: 0;
     background-color: rgb(255, 255, 255);
 }
 .row{
     padding: 0;
     margin: 0;
+}
+.col-6 {
+    margin: 0;
+    padding: 0;
 }
 #nav {
     margin-top: 2vh;
@@ -102,7 +107,7 @@ ul {
 #SignUp {
     padding: 2vh 0;
     color: black;
-    background-color: whitesmoke;
+    background-color: white;
 }
 #SignUp h4 {
     color: rgb(16, 162, 195);
@@ -116,11 +121,25 @@ ul {
     background-color: rgb(49, 47, 120);
 }
 #contact {
+    padding: 2vh 0;
     color: rgb(180, 183, 184);
     background-color: rgb(255, 255, 255);
 }
+.facebook {
+    color:#092B84
+}
+.twitter {
+    color: rgb(5, 183, 225);
+}
+.linkedin {
+    color: rgb(6, 106, 183)
+}
+.youtube {
+    color: rgb(219, 33, 40)
+}
 
 #footer {
+    padding: 2vh 0;
+    color: rgb(180, 183, 184);
     background-color: rgb(232, 232, 232);
-}
 }
