@@ -1,9 +1,14 @@
+body {
+    background-color: rgb(232, 232, 232);
+}
+.container {
+    background-color: rgb(255, 255, 255);
+}
 .row{
     padding: 0;
     margin: 0;
 }
 #nav {
-    background-color: whitesmoke;
     margin-top: 2vh;
     padding: 2.2vh 0 1.8vh 0;
 }
@@ -90,6 +95,32 @@ ul {
 .btn-success {
     background-color: rgb(64, 242, 1);
 }
-#aarticle2 h4 {
+#article2 h4 {
     padding: 2vh;
+}
+
+#SignUp {
+    padding: 2vh 0;
+    color: black;
+    background-color: whitesmoke;
+}
+#SignUp h4 {
+    color: rgb(16, 162, 195);
+}
+#SignUp p {
+    color: rgb(180, 183, 184);
+}
+
+#help {
+    color: whitesmoke;
+    background-color: rgb(49, 47, 120);
+}
+#contact {
+    color: rgb(180, 183, 184);
+    background-color: rgb(255, 255, 255);
+}
+
+#footer {
+    background-color: rgb(232, 232, 232);
+}
 }
