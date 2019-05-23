@@ -69,6 +69,10 @@ ul {
 #HeadParagraphe p{
     color: rgb(180, 183, 184);
 }
+#font p{
+    padding: 1vh 0;
+    color: rgb(180, 183, 184);
+}
 
 #ContentTitle {
     color: whitesmoke;
